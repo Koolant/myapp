@@ -76,3 +76,5 @@ easy_admin:
     entities:       
         Link:       
             class: AppBundle\Entity\Link
+        User:
+            class: AppBundle\Entity\User
